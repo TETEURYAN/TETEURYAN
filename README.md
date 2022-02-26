@@ -1,7 +1,7 @@
 ### Hii! I'am Matheus Ryan.
 
 
--🔭 I’m studyng on UFAL.
+-🔭 I’m studyng on UFAL. 
 
 <div align="center">
   <a href="https://github.com/teteurayn">
