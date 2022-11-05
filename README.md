@@ -1,9 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a700&height=120&section=header"/>
 
- 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=93c47d&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+my+name+is+Matheus+Ryan;Nice+to+meet+you!;I'm+studying+computer+sience+on+UFAL+in+Brazil:%29)](https://git.io/typing-svg)
+ 
+ <p align="left">
+<a href="https://bermeo.dev">
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=TETEURYAN&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=33a700&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=TETEURYAN&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+ <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=TETEURYAN&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=33a700&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=TETEURYAN&theme=dracula&icon_color=33a700&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
+</p>
+
+ 
+ 
+ 
+
 ![Snake animation](https://github.com/TETEURYAN/TETEURYAN/blob/output/github-contribution-grid-snake.svg)
-[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=TETEURYAN&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
 
 ---
 
@@ -12,15 +24,9 @@
   <a href="https://instagram.com/teteuryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
- ---
+
  
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TETEURYAN&show_icons=true&count_private=true&hide_border=true&title_color=33a700&icon_color=33a700&text_color=93c47d&bg_color=0d1117" alt="Matheus Ryan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TETEURYAN&layout=compact&hide_border=true&title_color=33a700&text_color=93c47d&bg_color=0d1117" />
-<div>
-
- <img align="left" height="250" alt="coding-time" src="code.gif">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
