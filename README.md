@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a700&height=120&section=header"/>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=93c47d&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+my+name+is+Matheus+Ryan;Nice+to+meet+you!;I'm+studying+computer+sience+on+UFAL+in+Brazil:%29)](https://git.io/typing-svg)
+ 
+```c
+int main()
+{
+    printf("This is my profile!🙄");
+    return 0;
+}
+```
  
  <p align="left">
 <a href="https://bermeo.dev">
@@ -23,15 +29,6 @@
   <a href="https://www.youtube.com/c/PLAYGROUNDBR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/teteuryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
- 
-
- 
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TETEURYAN}/count.svg" /></p> 
-<br></div>
 
   <div align="left"> 
 
