@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a700&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=93c47d&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+my+name+is+Matheus+Ryan;Nice+to+meet+you!;I'm+studying+computer+science+at+UFAL+in+Brazil:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=93c47d&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+my+name+is+Matheus+Ryan;AI+Research+Enthusiast+from+Brazil)](https://git.io/typing-svg)
  
 <img align="right" width=30% alt="" src="src/donut-render.gif">
 
@@ -8,15 +8,25 @@
 
 - 🏫 Currently pursuing a Bachelor's degree in Computer Science at UFAL
 - 🧠 Aspiring in Machine Learning and Neural Networks.
-- ➕ Researcher in the area of Mathematics Optimization and Data Science.
+- ➕ Researcher in the area of Natural Language Processing.
 - 🎈 Competitive Programming lover.
-- 🎨 Design Patterns and Graphs algorithms.
-- 📚 Proficient in C/C++ and Java.
+- 🎨 Always trying to create innovative solutions.
 - 📍 Currently based in Alagoas, Brazil.
 
 <hr>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5VbKGPWK3FxI56LFyWzPwqZOcFCANQH1Dw&s" height="20"/>
+   <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge"/>
+</p>
+
+---
 
  <p align="left">
 <a href="https://bermeo.dev">
@@ -24,8 +34,9 @@
 
 </p>
 
-
 ---
+
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
