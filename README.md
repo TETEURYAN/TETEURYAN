@@ -26,7 +26,15 @@
 
 
 ---
-![snake gif](https://github.com/TETEURYAN/TETEURYAN/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/TETEURYAN/TETEURYAN/output/github-contribution-grid-snake-dark.svg?v=2"
+  >
+  <img 
+    src="https://raw.githubusercontent.com/TETEURYAN/TETEURYAN/output/github-contribution-grid-snake.svg?v=2"
+  >
+</picture>
 
 <div align="center">
 <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fdeyverson&psig=AOvVaw17cyfQmgQa0l5VwgUV0A3n&ust=1665974999875000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjkiNLe4_oCFQAAAAAdAAAAABAJ)" width="700px" />
